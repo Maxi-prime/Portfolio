@@ -3,7 +3,7 @@
 ### Software Development Student · Web Developer · Future Software Engineer 🇸🇳
 
 <p align="center">
-  <img src="img/banner.png" alt="Magueye Sane Mbaye - Software Developer" width="100%">
+  <img src="img/IMG_20260903_061035.jpg" alt="Magueye Sane Mbaye - Software Developer" width="100%">
 </p>
 
 <p align="center">
@@ -129,7 +129,7 @@ Passionné par le **code, le développement web, les bases de données, les rés
 
 ### 💻 ISI Year 2 — Software Projects
 
-**[ISI-Year2-projects](https://github.com/Maxi-prime/ISI-Year2-projects)**
+**[ISI-Year2-projects](Maxi-prime/ISI-Year2-web-projects)**
 
 > Programming projects and exercises completed during my second year.
 
@@ -167,8 +167,10 @@ Je souhaite évoluer vers un profil de **Software Engineer**, capable de partici
 
 📍 **Dakar, Senegal**
 
-💻 **GitHub:** [Maxi-prime](https://github.com/Maxi-prime)
-💼 **LinkedIn:** *https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/*
+💻 **GitHub:** [Maxi-prime](https://github.com/Maxi-prime) <br>
+
+💼 **LinkedIn:** https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/ <br>
+
 📧 **Email:** *magueyesanembaye2001@gmail.com*
 
 ---
