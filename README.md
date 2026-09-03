@@ -185,14 +185,11 @@ Mon objectif est de devenir un **Software Engineer** capable de participer à to
 
 📍 **Dakar, Senegal**
 
-💻 **GitHub :**  
-<a href="https://github.com/Maxi-prime" target="_blank" rel="noopener noreferrer">Maxi-prime</a>
+💻 **GitHub :**  <a href="https://github.com/Maxi-prime" target="_blank" rel="noopener noreferrer">Maxi-prime</a>
 
-💼 **LinkedIn :**  
-<a href="https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/" target="_blank" rel="noopener noreferrer">Magueye Sane Mbaye</a>
+💼 **LinkedIn :**  <a href="https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/" target="_blank" rel="noopener noreferrer">Magueye Sane Mbaye</a>
 
-📧 **Email :**  
-<a href="mailto:magueyesanembaye2001@gmail.com">magueyesanembaye2001@gmail.com</a>
+📧 **Email :**  <a href="mailto:magueyesanembaye2001@gmail.com">magueyesanembaye2001@gmail.com</a>
 
 ---
 
