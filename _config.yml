@@ -1,8 +1,10 @@
-title: "Magueye Sane Mbaye"
-logo: img/IMG_20260903_061035.jpg
-#description: "Prtfolio Genie Logiciel - Licence"
-show_dowloads: true
-    remote_theme: sanniassin/developer
-    plugins:
-      - jekyll-remote-theme
-lang: fr 
+title: "Magueye Sane Mbaye | Software Developer"
+description: "Software Development Portfolio — Web Development, Java, Python, C++, Databases and Software Engineering."
+author: "Magueye Sane Mbaye"
+
+theme: jekyll-theme-cayman
+
+show_downloads: false
+
+github:
+username: Maxi-prime
