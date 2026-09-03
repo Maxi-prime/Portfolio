@@ -1,17 +1,21 @@
 # 🚀 Magueye Sane Mbaye
 
-### Software Development Student · Web Developer · Future Software Engineer 🇸🇳
+<p align="center">
+  <img src="img/IMG_20260903_061035.jpg" alt="Magueye Sane Mbaye" width="160">
+</p>
+
+<h3 align="center">
+  Software Development Student · Web Developer · Future Software Engineer 🇸🇳
+</h3>
 
 <p align="center">
-  <img src="img/IMG_20260903_061035.jpg" alt="Magueye Sane Mbaye - Software Developer" width="100%">
+  <strong>ISI Keur Massar · Dakar, Senegal</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Maxi-prime">
-    <img src="https://img.shields.io/badge/GitHub-Maxi--prime-181717?style=for-the-badge&logo=github">
-  </a>
-  <img src="https://img.shields.io/badge/ISI%20Keur%20Massar-Dakar-E30613?style=for-the-badge">
   <img src="https://img.shields.io/badge/Software%20Development-Student-3776AB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ISI%20Keur%20Massar-Dakar-E30613?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🇸🇳-Senegal-00853F?style=for-the-badge">
 </p>
 
 ---
@@ -20,7 +24,7 @@
 
 Étudiant en **Développement Logiciel à l'ISI Keur Massar**, je viens de terminer ma **2ème année**.
 
-Passionné par le **code, le développement web, les bases de données, les réseaux et la conception logicielle**, je transforme mes connaissances en projets concrets.
+Passionné par le **développement logiciel, le web, les bases de données, les réseaux et la conception logicielle**, je transforme mes connaissances en projets concrets.
 
 🎯 **Objectif : devenir Software Engineer et construire des solutions utiles, sécurisées et évolutives.**
 
@@ -29,9 +33,7 @@ Passionné par le **code, le développement web, les bases de données, les rés
 ## 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,php,python,java,cpp,mysql,wordpress,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,php,python,java,cpp,mysql,wordpress,git,github,vscode" />
 </p>
 
 ---
@@ -41,108 +43,113 @@ Passionné par le **code, le développement web, les bases de données, les rés
 <details>
 <summary>💻 <strong>Software Development</strong></summary>
 
-* Java · Python · C++
-* Programmation Orientée Objet
-* Algorithmique & structures de données
-* Applications console
-* JDBC
-* Conception et organisation de projets
+- Java · Python · C++
+- Programmation Orientée Objet
+- Algorithmique & structures de données
+- Applications console
+- JDBC
+- Conception logicielle
 
 </details>
 
 <details>
 <summary>🌐 <strong>Web Development & WordPress</strong></summary>
 
-* HTML5 · CSS3 · PHP
-* Responsive Design
-* CRUD
-* WordPress
-* Elementor
-* Création et personnalisation de sites web
+- HTML5 · CSS3 · PHP
+- Responsive Design
+- CRUD
+- WordPress · Elementor
+- Création et personnalisation de sites web
 
 </details>
 
 <details>
 <summary>🗄️ <strong>Database</strong></summary>
 
-* SQL
-* MySQL
-* Modélisation des données
-* CRUD
-* Relations entre tables
-* Connexion application ↔ base de données
+- SQL · MySQL
+- Modélisation des données
+- CRUD
+- Relations entre tables
+- Connexion application ↔ base de données
 
 </details>
 
 <details>
 <summary>🧩 <strong>UML & Software Design</strong></summary>
 
-* Analyse et conception logicielle
-* Diagrammes UML
-* Diagrammes de classes
-* Modélisation des systèmes
-* Visual Paradigm
+- Analyse et conception logicielle
+- Diagrammes UML
+- Diagrammes de classes
+- Modélisation des systèmes
+- Visual Paradigm
 
 </details>
 
 <details>
 <summary>🌐 <strong>Networks</strong></summary>
 
-* Architecture réseau
-* Protocoles réseau
-* Adressage IP
-* Modèles OSI & TCP/IP
+- Architecture réseau
+- Protocoles réseau
+- Adressage IP
+- Modèles OSI & TCP/IP
 
 </details>
 
 <details>
 <summary>📊 <strong>Accounting</strong></summary>
 
-* Comptabilité générale
-* Comptabilité analytique
-* Analyse des données comptables
+- Comptabilité générale
+- Comptabilité analytique
+- Analyse des données comptables
 
 </details>
 
 <details>
 <summary>⚖️ <strong>ICT Law</strong></summary>
 
-* Droit des technologies de l'information et de la communication
-* Protection des données
-* Responsabilités liées aux systèmes informatiques
+- Droit des TIC
+- Protection des données
+- Responsabilités liées aux systèmes informatiques
 
 </details>
 
 ---
 
+## 🛠️ Tools
+
+`Git` · `GitHub` · `VS Code` · `Visual Paradigm` · `StarUML` · `draw.io` · `Laragon`
+
+---
+
 ## 📂 Featured Projects
 
-### 🌐 ISI Year 1 — Web Projects
+### 🌐 01 · ISI Year 1 — Web Projects
 
 **[ISI-Year1-web-projects](https://github.com/Maxi-prime/ISI-Year1-web-projects)**
 
-> Web projects and practical exercises completed during my first year.
+Web projects and practical exercises completed during my first year.
 
 `HTML` `CSS` `PHP` `MySQL`
 
 ---
 
-### 💻 ISI Year 2 — Software Projects
+### 💻 02 · ISI Year 2 — Projects
 
-**[ISI-Year2-projects](Maxi-prime/ISI-Year2-web-projects)**
+**[ISI-Year2-web-projects](https://github.com/Maxi-prime/ISI-Year2-web-projects)**
 
-> Programming projects and exercises completed during my second year.
+Programming projects and practical work completed during my second year.
 
 `Python` `Java` `C++` `SQL` `MySQL`
 
 ---
 
-### 🏆 Sports Competition Management
+### 🏆 03 · Sports Competition Management
 
-Application console développée avec **Java, JDBC et MySQL** dans le contexte des **Jeux Olympiques de la Jeunesse Dakar 2026**.
+Application console developed with **Java, JDBC and MySQL** in the context of the **Dakar 2026 Youth Olympic Games**.
 
-Gestion de :
+`Java` `JDBC` `MySQL` `UML`
 
+**Management:**  
 `Users` · `Countries` · `Disciplines` · `Athletes` · `Competitions` · `Results`
 
 ---
@@ -157,7 +164,9 @@ Gestion de :
 
 > **Build software. Solve problems. Keep improving.**
 
-Je souhaite évoluer vers un profil de **Software Engineer**, capable de participer à toutes les étapes d'un projet : **analyse → conception → développement → tests → déploiement**.
+Mon objectif est de devenir un **Software Engineer** capable de participer à toutes les étapes d'un projet :
+
+**Analyse → Conception → Développement → Tests → Déploiement**
 
 🔎 **Open to internships, collaborative projects and professional opportunities.**
 
@@ -167,11 +176,11 @@ Je souhaite évoluer vers un profil de **Software Engineer**, capable de partici
 
 📍 **Dakar, Senegal**
 
-💻 **GitHub:** [Maxi-prime](https://github.com/Maxi-prime) <br>
+💻 **GitHub:** [Maxi-prime](https://github.com/Maxi-prime)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/ <br>
+💼 **LinkedIn:** [Magueye Sane Mbaye](https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/)
 
-📧 **Email:** *magueyesanembaye2001@gmail.com*
+📧 **Email:** [magueyesanembaye2001@gmail.com](mailto:magueyesanembaye2001@gmail.com)
 
 ---
 
