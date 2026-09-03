@@ -1,6 +1,8 @@
 title: "Magueye Sane Mbaye"
 logo: img/IMG_20260903_061035.jpg
-description: "Prtfolio Genie Logiciel - Licence"
+#description: "Prtfolio Genie Logiciel - Licence"
 show_dowloads: true
-theme: jekyll-theme-minimal
+    remote_theme: sanniassin/developer
+    plugins:
+      - jekyll-remote-theme
 lang: fr 
