@@ -1,21 +1,22 @@
-# 🚀 Magueye Sane Mbaye
 
 <p align="center">
-  <img src="img/IMG_20260903_061035.jpg" alt="Magueye Sane Mbaye" width="160">
+  <img src="img/IMG_20260903_061035.jpg" alt="Magueye Sane Mbaye" width="160" style="border-radius: 50%;">
 </p>
 
-<h3 align="center">
+<h2 align="center">
   Software Development Student · Web Developer · Future Software Engineer 🇸🇳
-</h3>
+</h2>
 
 <p align="center">
   <strong>ISI Keur Massar · Dakar, Senegal</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Development-Student-3776AB?style=for-the-badge">
+  <a href="https://github.com/Maxi-prime" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Maxi--prime-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/ISI%20Keur%20Massar-Dakar-E30613?style=for-the-badge">
-  <img src="https://img.shields.io/badge/🇸🇳-Senegal-00853F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Software%20Development-Student-3776AB?style=for-the-badge">
 </p>
 
 ---
@@ -107,7 +108,7 @@ Passionné par le **développement logiciel, le web, les bases de données, les 
 <details>
 <summary>⚖️ <strong>ICT Law</strong></summary>
 
-- Droit des TIC
+- Droit des technologies de l'information et de la communication
 - Protection des données
 - Responsabilités liées aux systèmes informatiques
 
@@ -125,7 +126,11 @@ Passionné par le **développement logiciel, le web, les bases de données, les 
 
 ### 🌐 01 · ISI Year 1 — Web Projects
 
-**[ISI-Year1-web-projects](https://github.com/Maxi-prime/ISI-Year1-web-projects)**
+<p>
+  <a href="https://github.com/Maxi-prime/ISI-Year1-web-projects" target="_blank" rel="noopener noreferrer">
+    <strong>➡️ View Project</strong>
+  </a>
+</p>
 
 Web projects and practical exercises completed during my first year.
 
@@ -135,7 +140,11 @@ Web projects and practical exercises completed during my first year.
 
 ### 💻 02 · ISI Year 2 — Projects
 
-**[ISI-Year2-web-projects](https://github.com/Maxi-prime/ISI-Year2-web-projects)**
+<p>
+  <a href="https://github.com/Maxi-prime/ISI-Year2-web-projects" target="_blank" rel="noopener noreferrer">
+    <strong>➡️ View Project</strong>
+  </a>
+</p>
 
 Programming projects and practical work completed during my second year.
 
@@ -176,16 +185,19 @@ Mon objectif est de devenir un **Software Engineer** capable de participer à to
 
 📍 **Dakar, Senegal**
 
-💻 **GitHub:** [Maxi-prime](https://github.com/Maxi-prime)
+💻 **GitHub :**  
+<a href="https://github.com/Maxi-prime" target="_blank" rel="noopener noreferrer">Maxi-prime</a>
 
-💼 **LinkedIn:** [Magueye Sane Mbaye](https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/)
+💼 **LinkedIn :**  
+<a href="https://www.linkedin.com/in/magueye-sane-mbaye-a584713aa/" target="_blank" rel="noopener noreferrer">Magueye Sane Mbaye</a>
 
-📧 **Email:** [magueyesanembaye2001@gmail.com](mailto:magueyesanembaye2001@gmail.com)
+📧 **Email :**  
+<a href="mailto:magueyesanembaye2001@gmail.com">magueyesanembaye2001@gmail.com</a>
 
 ---
 
 <p align="center">
 
-### ⭐ Learn · Build · Solve · Improve 🚀
+⭐ Learn · Build · Solve · Improve 🚀
 
 </p>
